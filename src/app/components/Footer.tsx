@@ -12,11 +12,13 @@ const Footer: React.FC = () => {
             <p className="text-gray-400 mb-4">
               Streamline your workflow with our innovative solutions.
             </p>
-            <SocialMedia 
-              variant="colored" 
-              iconSize="sm" 
-              className="mt-6" 
-            />
+            <div className="mt-6">
+              <SocialMedia 
+                variant="colored" 
+                iconSize="sm" 
+                className="flex flex-wrap gap-2 sm:gap-3" 
+              />
+            </div>
           </div>
           
           <div>
