@@ -212,7 +212,7 @@ const LandingPage: React.FC = () => {
                 </div>
                 {/* Decorative elements */}
                 <div className="absolute -bottom-6 -left-6 h-12 w-12 bg-yellow-400 rounded-full"></div>
-                <div className="absolute -top-6 -right-6 h-16 w-16 bg-indigo-300 rounded-full"></div>
+                <div className="absolute -top-6 -right-3 h-16 w-16 bg-indigo-300 rounded-full"></div>
               </div>
             </div>
           </div>
